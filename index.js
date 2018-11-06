@@ -7,4 +7,4 @@ jsonfile.readFile(file, function(err, obj)
         console.error(err);
     }
     console.dir(obj);
-})
+});
